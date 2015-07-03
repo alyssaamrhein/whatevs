@@ -1,15 +1,13 @@
+// navigator.geolocation.getCurrentPosition(function(position) {
+//     console.log(position);
+//     console.log(position.coords);
+// 	console.log(position.timestamp);
+// 	console.log(position.coords.latitude);
+// 	console.log(position.coords.longitude);
 
-
-navigator.geolocation.getCurrentPosition(function(position) {
-    console.log(position);
-    console.log(position.coords);
-	console.log(position.timestamp);
-	console.log(position.coords.latitude);
-	console.log(position.coords.longitude);
-
-}, function(positionError) {
-    console.log(positionError);
-});
+// }, function(positionError) {
+//     console.log(positionError);
+// });
 
 //var myPosition = " ";
 var map = L.map('map').setView([51.505, -0.09], 13);
