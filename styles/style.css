@@ -1,0 +1,15 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo);
+body {
+  font-family: "Arvo", serif;
+  background-color: #97ACD1; }
+
+h1 {
+  color: white;
+  margin: 0 auto;
+  text-align: center;
+  width: 80%; }
+
+#map {
+  height: 180px; }
+
+/*# sourceMappingURL=style.css.map */
