@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 var myPosition = "";
 var lat = "";
 var lng = "";
