@@ -33,7 +33,7 @@ navigator.geolocation.getCurrentPosition(success);
 
 //end new code
 
-navigator.geolocation.getCurrentPosition();
+
 
  function success(pos) {
  	console.log(pos);
