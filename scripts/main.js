@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 var myPosition = "";
 var lat = "";
 var lng = "";
@@ -17,6 +18,18 @@ navigator.geolocation.getCurrentPosition(success);
 // }
 
 // getLocation();
+
+// navigator.geolocation.getCurrentPosition(function(position) {
+//     console.log(position);
+//     console.log(position.coords);
+// 	console.log(position.timestamp);
+// 	console.log(position.coords.latitude);
+// 	console.log(position.coords.longitude);
+
+// }, function(positionError) {
+//     console.log(positionError);
+// });
+
 
 //end new code
 
